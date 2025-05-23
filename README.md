@@ -13,9 +13,11 @@
 ## 👀 About Me
 
 #### 🙋‍♂️ I am a Data Analyst & Web Developer based in South Korea.  
+#### 🏫 Undergraduate student at KyungHee University (KHU), majoring in Big Data Analytics.  
 #### 🚀 I'm passionate about creating data-driven, user-centered web services.  
-#### 🎓 Major in Big Data Analytics of KyungHee University(KHU), exploring AI & Frontend Engineering.  
+#### 🎓 Exploring AI & Frontend Engineering alongside my major.  
 #### 🛠 Currently building an AI-based self-introduction web platform, "Careermizing".
+
 
   <br/>
   <br/>
