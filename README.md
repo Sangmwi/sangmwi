@@ -3,7 +3,6 @@
   <!--Header-->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Hi%20there,%20I'm%20Sanghwi!👋&fontSize=30" />
 
-  <h3>Data Analyst & Web Developer | AI & Data-driven Services Enthusiast</h3>
 
 </div>
 
@@ -52,18 +51,10 @@
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows&logoColor=white)
 
-<br/>
-
-## 🚩 Current Focus
-- ⚡ **Next.js 15** for modern web app architecture  
-- 🌍 **Vercel** for seamless CI/CD and global delivery  
-- 🤝 Scaling **AI & data-driven products** from idea to production  
 
 <br/>
 
 ## 📈 GitHub Stats
 ![Sanghwi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sangmwi&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sangmwi&layout=compact&theme=tokyonight)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sangmwi&theme=tokyonight)  
 
 ---
