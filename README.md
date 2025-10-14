@@ -28,11 +28,12 @@
 ### ⚛️ Libraries / Frameworks / State  
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![TanStack Query](https://img.shields.io/badge/TanStack%20Query-FF4154?style=flat-square&logo=react-query&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
 ![Zustand](https://img.shields.io/badge/Zustand-000000?style=flat-square&logoColor=white)
 
 ### 🖥️ Backend / Deployment  
-![Firebase](https://img.shields.io/badge/Firebase%20(Firestore)-FFCA28?style=flat-square&logo=Firebase&logoColor=black)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=black)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=Netlify&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
