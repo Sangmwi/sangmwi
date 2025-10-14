@@ -3,7 +3,6 @@
   <!--Header-->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Hi%20there,%20I'm%20Sanghwi!👋&fontSize=30" />
 
-
 </div>
 
 ---
@@ -25,6 +24,7 @@
 ![Zustand](https://img.shields.io/badge/Zustand-000000?style=flat-square&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
 ![TanStack Query](https://img.shields.io/badge/TanStack%20Query-FF4154?style=flat-square&logo=react-query&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)
 
 ---
 
@@ -50,11 +50,7 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-
-
 <br/>
 
 ## 📈 GitHub Stats
 ![Sanghwi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sangmwi&show_icons=true&theme=tokyonight)  
-
----
